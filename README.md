@@ -47,5 +47,5 @@
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakash-naikwadi&theme=dark" alt="prasad-dhakne" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasad-dhakne&theme=dark" alt="prasad-dhakne" /></p>
   </div>
