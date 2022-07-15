@@ -39,3 +39,13 @@
   <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
 
 </div><br/>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=prasad-dhakne&show_icons=true&theme=dark&locale=en" alt="prasad-dhakne" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prasad-dhakne&show_icons=true&theme=dark&locale=en&layout=compact" alt="prasad-dhakne" /></td>
+  </tr>
+</table>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakash-naikwadi&theme=dark" alt="prasad-dhakne" /></p>
+  </div>
